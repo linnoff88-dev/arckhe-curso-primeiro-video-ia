@@ -1,4 +1,4 @@
-﻿# Seu Primeiro VÃ­deo com IA em 24 Horas v6.2
+# Seu Primeiro VÃ­deo com IA em 24 Horas v6.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -7,7 +7,7 @@
 
 
 Curso aberto e gratuito com quatro mÃ³dulos e 12 aulas.
-[Abra o curso](https://inematds.github.io/curso-primeiro-video-ia/).
+[Abra o curso](https://linnoff88-dev.github.io/
 
 Caso autoral Ponto da Pausa: roteiro, quatro cenas, movimento, revisÃ£o, montagem, voz, legendas e entrega.
 O desafio de 24 horas organiza o escopo; acesso, crÃ©ditos e filas podem exigir mais tempo. Reserve 4â€“6 horas com a produÃ§Ã£o.
@@ -17,20 +17,20 @@ As atividades de geraÃ§Ã£o exigem ferramenta compatÃ­vel e sÃ³ sÃ£o co
 ## Arquivos
 
 `context/conteudo-base.json` e `context/aulas-editoriais.json` sÃ£o as fontes autorais.
-`python3 montar.py` gera as aulas usando o motor oficial INEMA v6. O caminho da skill estÃ¡ em SKILL no script.
+`python3 montar.py` gera as aulas usando o motor oficial ARCKHÉ v6. O caminho da skill estÃ¡ em SKILL no script.
 `assets/aula.css` e `assets/curso.js` sÃ£o cÃ³pias sem alteraÃ§Ãµes do motor.
 Fontes oficiais, inventÃ¡rio de imagens, auditoria e leitores simulados ficam em `context/`.
 NÃ£o houve teste com alunos reais nem geraÃ§Ã£o de vÃ­deos Kling/Flow durante a autoria.
 
-## INEMA.CLUB
+## ARCKHÉ AI
 
-- [Ficha](https://www.inema.club/cursos/290-seu-primeiro-video-com-ia-em-24-horas-v6-2/)
-- [Como aprender IA](https://www.inema.club/aprender-inteligencia-artificial/)
-- [CatÃ¡logo](https://www.inema.club/cursos/)
+- [Ficha](https://www.ARCKHÉ AI/cursos/290-seu-primeiro-video-com-ia-em-24-horas-v6-2/)
+- [Como aprender IA](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [CatÃ¡logo](https://www.ARCKHÉ AI/cursos/)
 
 ## English / EspaÃ±ol
 
-[English](https://inematds.github.io/curso-primeiro-video-ia/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-primeiro-video-ia/es/)
+[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
 
@@ -46,13 +46,13 @@ Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos s
 
 EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/290-seu-primeiro-video-com-ia-em-24-horas-v6-2/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/290-seu-primeiro-video-com-ia-em-24-horas-v6-2/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
