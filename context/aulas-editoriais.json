@@ -1,425 +1,425 @@
 [
   {
-    "titulo": "Defina um vÃ­deo possÃ­vel para hoje",
-    "entrega": "definir pÃºblico, aÃ§Ã£o e limite de um vÃ­deo curto",
-    "dor": "Quando a primeira ideia tenta mostrar tudo, cada cena abre uma nova decisÃ£o. Um recorte pequeno permite terminar e aprender.",
-    "antes": "Um filme completo da cafeteria com cinco personagens e muitas transformaÃ§Ãµes.",
-    "depois": "Quatro planos que somam atÃ© 20 segundos, com um convite para conhecer o espaÃ§o.",
+    "titulo": "Defina um vêÂ­deo possêÂ­vel para hoje",
+    "entrega": "definir pêÂºblico, aêÂ§êÂ£o e limite de um vêÂ­deo curto",
+    "dor": "Quando a primeira ideia tenta mostrar tudo, cada cena abre uma nova decisêÂ£o. Um recorte pequeno permite terminar e aprender.",
+    "antes": "Um filme completo da cafeteria com cinco personagens e muitas transformaêÂ§êÂµes.",
+    "depois": "Quatro planos que somam atêÂ© 20 segundos, com um convite para conhecer o espaêÂ§o.",
     "campos": [
-      "PÃºblico: vizinhos que querem uma pausa",
-      "VÃ­deo inteiro: 15â€“20 segundos, dividido em quatro planos",
-      "Limite: no mÃ¡ximo duas tentativas por plano"
+      "PêÂºblico: vizinhos que querem uma pausa",
+      "VêÂ­deo inteiro: 15ê¢â¬â20 segundos, dividido em quatro planos",
+      "Limite: no mêÂ¡ximo duas tentativas por plano"
     ],
     "passos": [
-      "Abra as Notas e copie a ficha. Use a cafeteria fictÃ­cia ou um projeto prÃ³prio pequeno.",
-      "Preencha pÃºblico, aÃ§Ã£o desejada, duraÃ§Ã£o e o que deve permanecer igual.",
-      "Defina um teto de tentativas e uma data possÃ­vel. Se nÃ£o houver acesso ao gerador, registre geraÃ§Ã£o pendente."
+      "Abra as Notas e copie a ficha. Use a cafeteria fictêÂ­cia ou um projeto prêÂ³prio pequeno.",
+      "Preencha pêÂºblico, aêÂ§êÂ£o desejada, duraêÂ§êÂ£o e o que deve permanecer igual.",
+      "Defina um teto de tentativas e uma data possêÂ­vel. Se nêÂ£o houver acesso ao gerador, registre geraêÂ§êÂ£o pendente."
     ],
-    "molde": "Projeto: Ponto da Pausa (fictÃ­cio)\nPÃºblico: vizinhos\nAÃ§Ã£o: conhecer o cafÃ©\nDuraÃ§Ã£o: 15â€“20 segundos\nFixos: xÃ­cara verde-petrÃ³leo, madeira, luz suave\nTeto: duas tentativas por plano\nData e acesso: <preencher>",
-    "pronto": "a ficha tem pÃºblico, aÃ§Ã£o, duraÃ§Ã£o, limites e situaÃ§Ã£o do acesso",
-    "confira": "Uma ficha pronta encerra o planejamento; somente um arquivo reproduzÃ­vel comprova que o vÃ­deo foi produzido.",
-    "calma": "Se sua ideia parece grande, escolha sÃ³ um produto e um convite. VocÃª pode ampliar depois.",
-    "q": "O primeiro projeto depende de muitas cenas caras. Qual decisÃ£o ajuda a terminar?",
+    "molde": "Projeto: Ponto da Pausa (fictêÂ­cio)\nPêÂºblico: vizinhos\nAêÂ§êÂ£o: conhecer o cafêÂ©\nDuraêÂ§êÂ£o: 15ê¢â¬â20 segundos\nFixos: xêÂ­cara verde-petrêÂ³leo, madeira, luz suave\nTeto: duas tentativas por plano\nData e acesso: <preencher>",
+    "pronto": "a ficha tem pêÂºblico, aêÂ§êÂ£o, duraêÂ§êÂ£o, limites e situaêÂ§êÂ£o do acesso",
+    "confira": "Uma ficha pronta encerra o planejamento; somente um arquivo reproduzêÂ­vel comprova que o vêÂ­deo foi produzido.",
+    "calma": "Se sua ideia parece grande, escolha sêÂ³ um produto e um convite. VocêÂª pode ampliar depois.",
+    "q": "O primeiro projeto depende de muitas cenas caras. Qual decisêÂ£o ajuda a terminar?",
     "opcoes": [
       "Adicionar efeitos para compensar",
       "Reduzir a quatro planos com um objetivo",
       "Trocar de modelo sem definir o objetivo"
     ],
     "correta": 1,
-    "observacao": "Os cartÃµes vazios representam cenas ainda por decidir. A cÃ¢mera na mesa Ã© ilustrativa; nÃ£o Ã© equipamento obrigatÃ³rio.",
-    "ex1": "Caio, estudante de comunicaÃ§Ã£o de 29 anos, troca a histÃ³ria inteira do negÃ³cio por um convite de vinte segundos.",
-    "ex2": "Helena, dona de cafeteria de 55 anos, preserva a mesma xÃ­cara e o mesmo ambiente para reconhecer sua oferta.",
-    "tarefa": "Defina um vÃ­deo possÃ­vel para hoje",
+    "observacao": "Os cartêÂµes vazios representam cenas ainda por decidir. A cêÂ¢mera na mesa êÂ© ilustrativa; nêÂ£o êÂ© equipamento obrigatêÂ³rio.",
+    "ex1": "Caio, estudante de comunicaêÂ§êÂ£o de 29 anos, troca a histêÂ³ria inteira do negêÂ³cio por um convite de vinte segundos.",
+    "ex2": "Helena, dona de cafeteria de 55 anos, preserva a mesma xêÂ­cara e o mesmo ambiente para reconhecer sua oferta.",
+    "tarefa": "Defina um vêÂ­deo possêÂ­vel para hoje",
     "resumo": [
-      "PÃºblico: vizinhos que querem uma pausa",
-      "VÃ­deo inteiro: 15â€“20 segundos, dividido em quatro planos",
-      "Limite: no mÃ¡ximo duas tentativas por plano"
+      "PêÂºblico: vizinhos que querem uma pausa",
+      "VêÂ­deo inteiro: 15ê¢â¬â20 segundos, dividido em quatro planos",
+      "Limite: no mêÂ¡ximo duas tentativas por plano"
     ],
     "cartoes": [
       [
-        "O primeiro projeto depende de muitas cenas caras. Qual decisÃ£o ajuda a terminar?",
+        "O primeiro projeto depende de muitas cenas caras. Qual decisêÂ£o ajuda a terminar?",
         "Reduzir a quatro planos com um objetivo"
       ],
       [
         "O que conferir antes de seguir?",
-        "Uma ficha pronta encerra o planejamento; somente um arquivo reproduzÃ­vel comprova que o vÃ­deo foi produzido."
+        "Uma ficha pronta encerra o planejamento; somente um arquivo reproduzêÂ­vel comprova que o vêÂ­deo foi produzido."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "a ficha tem pÃºblico, aÃ§Ã£o, duraÃ§Ã£o, limites e situaÃ§Ã£o do acesso"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "a ficha tem pêÂºblico, aêÂ§êÂ£o, duraêÂ§êÂ£o, limites e situaêÂ§êÂ£o do acesso"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de prÃ¡tica."
+    "tempo_pratica": "Cerca de 10 minutos de prêÂ¡tica."
   },
   {
     "titulo": "Escolha uma das cinco estruturas simples",
     "entrega": "selecionar uma estrutura e justificar por que ela cabe no projeto",
-    "dor": "Uma lista de ideias ajuda quando cada opÃ§Ã£o indica o que mostrar. A melhor estreia Ã© a que vocÃª consegue produzir com os materiais disponÃ­veis.",
-    "antes": "Escolher antes e depois porque parece viral, sem ter uma transformaÃ§Ã£o para mostrar.",
-    "depois": "Escolher ambiente, detalhe e convite porque jÃ¡ hÃ¡ fotos do cafÃ© e do espaÃ§o.",
+    "dor": "Uma lista de ideias ajuda quando cada opêÂ§êÂ£o indica o que mostrar. A melhor estreia êÂ© a que vocêÂª consegue produzir com os materiais disponêÂ­veis.",
+    "antes": "Escolher antes e depois porque parece viral, sem ter uma transformaêÂ§êÂ£o para mostrar.",
+    "depois": "Escolher ambiente, detalhe e convite porque jêÂ¡ hêÂ¡ fotos do cafêÂ© e do espaêÂ§o.",
     "campos": [
-      "Estrutura: ambiente â†’ detalhe â†’ convite",
-      "Material: foto do espaÃ§o e da xÃ­cara",
-      "Falta: imagem final com espaÃ§o para texto"
+      "Estrutura: ambiente ê¢â â detalhe ê¢â â convite",
+      "Material: foto do espaêÂ§o e da xêÂ­cara",
+      "Falta: imagem final com espaêÂ§o para texto"
     ],
     "passos": [
       "Leia as cinco estruturas e escolha uma para seu projeto.",
-      "Anote quais imagens prÃ³prias vocÃª jÃ¡ tem e qual imagem falta. Sem material, use o caso fictÃ­cio para planejar.",
-      "Explique em uma frase por que essa estrutura Ã© executÃ¡vel. Guarde uma segunda ideia para depois."
+      "Anote quais imagens prêÂ³prias vocêÂª jêÂ¡ tem e qual imagem falta. Sem material, use o caso fictêÂ­cio para planejar.",
+      "Explique em uma frase por que essa estrutura êÂ© executêÂ¡vel. Guarde uma segunda ideia para depois."
     ],
-    "molde": "Estrutura escolhida: <uma das cinco>\nImagens disponÃ­veis: <lista>\nO que falta: <uma lacuna>\nEscolhi porque: <material e objetivo>\nSegunda ideia: <guardar>",
-    "pronto": "uma estrutura estÃ¡ ligada ao objetivo e aos materiais disponÃ­veis",
-    "confira": "A estrutura reÃºne funÃ§Ãµes, nÃ£o uma ordem obrigatÃ³ria. Na aula3, abrimos com a xÃ­cara, detalhamos o lanche, mostramos o ambiente e fechamos o convite.",
+    "molde": "Estrutura escolhida: <uma das cinco>\nImagens disponêÂ­veis: <lista>\nO que falta: <uma lacuna>\nEscolhi porque: <material e objetivo>\nSegunda ideia: <guardar>",
+    "pronto": "uma estrutura estêÂ¡ ligada ao objetivo e aos materiais disponêÂ­veis",
+    "confira": "A estrutura reêÂºne funêÂ§êÂµes, nêÂ£o uma ordem obrigatêÂ³ria. Na aula3, abrimos com a xêÂ­cara, detalhamos o lanche, mostramos o ambiente e fechamos o convite.",
     "calma": "Sem fotos hoje, escolha produto em destaque e planeje fotografar um objeto simples perto da janela.",
-    "q": "Qual condiÃ§Ã£o torna a comparaÃ§Ã£o A versus B mais justa?",
+    "q": "Qual condiêÂ§êÂ£o torna a comparaêÂ§êÂ£o A versus B mais justa?",
     "opcoes": [
-      "As duas opÃ§Ãµes usarem condiÃ§Ãµes comparÃ¡veis",
-      "A legenda declarar que A Ã© melhor sem evidÃªncia",
+      "As duas opêÂ§êÂµes usarem condiêÂ§êÂµes comparêÂ¡veis",
+      "A legenda declarar que A êÂ© melhor sem evidêÂªncia",
       "B estiver sempre no escuro"
     ],
     "correta": 0,
-    "observacao": "As tiras sobre a mesa sugerem diferentes sequÃªncias. Use as cinco descriÃ§Ãµes no texto para escolher sua prÃ³pria estrutura.",
-    "ex1": "Caio evita a transformaÃ§Ã£o de um salÃ£o inteiro: teria de gerar e revisar muitos detalhes.",
-    "ex2": "Helena escolhe mostrar espaÃ§o, lanche e convite porque essas trÃªs imagens jÃ¡ contam uma visita possÃ­vel.",
+    "observacao": "As tiras sobre a mesa sugerem diferentes sequêÂªncias. Use as cinco descriêÂ§êÂµes no texto para escolher sua prêÂ³pria estrutura.",
+    "ex1": "Caio evita a transformaêÂ§êÂ£o de um salêÂ£o inteiro: teria de gerar e revisar muitos detalhes.",
+    "ex2": "Helena escolhe mostrar espaêÂ§o, lanche e convite porque essas trêÂªs imagens jêÂ¡ contam uma visita possêÂ­vel.",
     "tarefa": "Escolha uma das cinco estruturas simples",
     "resumo": [
-      "Estrutura: ambiente â†’ detalhe â†’ convite",
-      "Material: foto do espaÃ§o e da xÃ­cara",
-      "Falta: imagem final com espaÃ§o para texto"
+      "Estrutura: ambiente ê¢â â detalhe ê¢â â convite",
+      "Material: foto do espaêÂ§o e da xêÂ­cara",
+      "Falta: imagem final com espaêÂ§o para texto"
     ],
     "cartoes": [
       [
-        "Qual condiÃ§Ã£o torna a comparaÃ§Ã£o A versus B mais justa?",
-        "As duas opÃ§Ãµes usarem condiÃ§Ãµes comparÃ¡veis"
+        "Qual condiêÂ§êÂ£o torna a comparaêÂ§êÂ£o A versus B mais justa?",
+        "As duas opêÂ§êÂµes usarem condiêÂ§êÂµes comparêÂ¡veis"
       ],
       [
         "O que conferir antes de seguir?",
-        "A estrutura reÃºne funÃ§Ãµes, nÃ£o uma ordem obrigatÃ³ria. Na aula3, abrimos com a xÃ­cara, detalhamos o lanche, mostramos o ambiente e fechamos o convite."
+        "A estrutura reêÂºne funêÂ§êÂµes, nêÂ£o uma ordem obrigatêÂ³ria. Na aula3, abrimos com a xêÂ­cara, detalhamos o lanche, mostramos o ambiente e fechamos o convite."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "uma estrutura estÃ¡ ligada ao objetivo e aos materiais disponÃ­veis"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "uma estrutura estêÂ¡ ligada ao objetivo e aos materiais disponêÂ­veis"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de prÃ¡tica."
+    "tempo_pratica": "Cerca de 10 minutos de prêÂ¡tica."
   },
   {
     "titulo": "Escreva quatro linhas que viram cenas",
     "entrega": "escrever e cronometrar um roteiro de quatro linhas",
-    "dor": "Um roteiro cheio de adjetivos pode soar bonito sem mostrar nada. Uma linha curta com uma imagem possÃ­vel facilita a produÃ§Ã£o.",
-    "antes": "Uma experiÃªncia sensorial incrÃ­vel e inesquecÃ­vel que transforma tudo.",
-    "depois": "Precisa de uma pausa? CafÃ© e um lanche. Um canto tranquilo. ConheÃ§a o Ponto da Pausa.",
+    "dor": "Um roteiro cheio de adjetivos pode soar bonito sem mostrar nada. Uma linha curta com uma imagem possêÂ­vel facilita a produêÂ§êÂ£o.",
+    "antes": "Uma experiêÂªncia sensorial incrêÂ­vel e inesquecêÂ­vel que transforma tudo.",
+    "depois": "Precisa de uma pausa? CafêÂ© e um lanche. Um canto tranquilo. ConheêÂ§a o Ponto da Pausa.",
     "campos": [
       "Abertura: Precisa de uma pausa?",
-      "Valor: cafÃ©, lanche e um canto tranquilo",
-      "Convite: conheÃ§a o Ponto da Pausa"
+      "Valor: cafêÂ©, lanche e um canto tranquilo",
+      "Convite: conheêÂ§a o Ponto da Pausa"
     ],
     "passos": [
-      "Escreva quatro linhas: abertura, produto, ambiente e convite. Use o exemplo ou seu negÃ³cio.",
-      "Ao lado de cada linha, descreva uma imagem simples. Retire dados que vocÃª nÃ£o confirmou.",
-      "Leia em voz alta e cronometre. Ajuste atÃ© caber entre 15 e 20 segundos, incluindo pequenas pausas."
+      "Escreva quatro linhas: abertura, produto, ambiente e convite. Use o exemplo ou seu negêÂ³cio.",
+      "Ao lado de cada linha, descreva uma imagem simples. Retire dados que vocêÂª nêÂ£o confirmou.",
+      "Leia em voz alta e cronometre. Ajuste atêÂ© caber entre 15 e 20 segundos, incluindo pequenas pausas."
     ],
-    "molde": "1. Precisa de uma pausa? | xÃ­cara\n2. CafÃ© e um lanche. | detalhe do croissant\n3. Um canto tranquilo. | ambiente\n4. ConheÃ§a o Ponto da Pausa. | produto e convite\nTempo lido: <segundos>\nAjuste necessÃ¡rio: <registrar>",
-    "pronto": "as quatro linhas tÃªm uma imagem correspondente e uma leitura cronometrada de 15 a 20 segundos",
-    "confira": "A duraÃ§Ã£o do roteiro inclui pausas. Se ficou longo, corte palavras antes de pedir uma fala acelerada.",
-    "calma": "Leia devagar. Se terminar antes de quinze segundos, acrescente pausas que deixem observar as imagens, sem alongar frases Ã  forÃ§a.",
-    "q": "O assistente acrescentou um endereÃ§o que vocÃª nÃ£o informou. O que fazer?",
+    "molde": "1. Precisa de uma pausa? | xêÂ­cara\n2. CafêÂ© e um lanche. | detalhe do croissant\n3. Um canto tranquilo. | ambiente\n4. ConheêÂ§a o Ponto da Pausa. | produto e convite\nTempo lido: <segundos>\nAjuste necessêÂ¡rio: <registrar>",
+    "pronto": "as quatro linhas têÂªm uma imagem correspondente e uma leitura cronometrada de 15 a 20 segundos",
+    "confira": "A duraêÂ§êÂ£o do roteiro inclui pausas. Se ficou longo, corte palavras antes de pedir uma fala acelerada.",
+    "calma": "Leia devagar. Se terminar antes de quinze segundos, acrescente pausas que deixem observar as imagens, sem alongar frases êÂ  forêÂ§a.",
+    "q": "O assistente acrescentou um endereêÂ§o que vocêÂª nêÂ£o informou. O que fazer?",
     "opcoes": [
       "Gerar mais imagens para esconder o erro",
-      "Publicar porque parece plausÃ­vel",
+      "Publicar porque parece plausêÂ­vel",
       "Retirar e inserir somente um dado confirmado"
     ],
     "correta": 2,
-    "observacao": "A xÃ­cara, o lanche e a entrada sÃ£o imagens possÃ­veis para linhas diferentes. A ilustraÃ§Ã£o nÃ£o comprova duraÃ§Ã£o nem movimento.",
-    "ex1": "Caio troca uma frase abstrata por cafÃ© e um lanche, que pode mostrar em um plano.",
-    "ex2": "Helena lÃª o convite em voz alta e deixa uma pausa antes do nome da cafeteria.",
+    "observacao": "A xêÂ­cara, o lanche e a entrada sêÂ£o imagens possêÂ­veis para linhas diferentes. A ilustraêÂ§êÂ£o nêÂ£o comprova duraêÂ§êÂ£o nem movimento.",
+    "ex1": "Caio troca uma frase abstrata por cafêÂ© e um lanche, que pode mostrar em um plano.",
+    "ex2": "Helena lêÂª o convite em voz alta e deixa uma pausa antes do nome da cafeteria.",
     "tarefa": "Escreva quatro linhas que viram cenas",
     "resumo": [
       "Abertura: Precisa de uma pausa?",
-      "Valor: cafÃ©, lanche e um canto tranquilo",
-      "Convite: conheÃ§a o Ponto da Pausa"
+      "Valor: cafêÂ©, lanche e um canto tranquilo",
+      "Convite: conheêÂ§a o Ponto da Pausa"
     ],
     "cartoes": [
       [
-        "O assistente acrescentou um endereÃ§o que vocÃª nÃ£o informou. O que fazer?",
+        "O assistente acrescentou um endereêÂ§o que vocêÂª nêÂ£o informou. O que fazer?",
         "Retirar e inserir somente um dado confirmado"
       ],
       [
         "O que conferir antes de seguir?",
-        "A duraÃ§Ã£o do roteiro inclui pausas. Se ficou longo, corte palavras antes de pedir uma fala acelerada."
+        "A duraêÂ§êÂ£o do roteiro inclui pausas. Se ficou longo, corte palavras antes de pedir uma fala acelerada."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "as quatro linhas tÃªm uma imagem correspondente e uma leitura cronometrada de 15 a 20 segundos"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "as quatro linhas têÂªm uma imagem correspondente e uma leitura cronometrada de 15 a 20 segundos"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de prÃ¡tica."
+    "tempo_pratica": "Cerca de 10 minutos de prêÂ¡tica."
   },
   {
-    "titulo": "Prepare uma referÃªncia que mostra o produto",
-    "entrega": "fotografar e conferir uma referÃªncia de objeto",
-    "dor": "Uma imagem inicial confusa deixa o gerador completar detalhes que vocÃª precisava preservar. A referÃªncia precisa mostrar o que importa.",
-    "antes": "Foto escura, alÃ§a cortada e vÃ¡rios objetos competindo.",
-    "depois": "Foto clara de um objeto inteiro com fundo simples e espaÃ§o ao redor.",
+    "titulo": "Prepare uma referêÂªncia que mostra o produto",
+    "entrega": "fotografar e conferir uma referêÂªncia de objeto",
+    "dor": "Uma imagem inicial confusa deixa o gerador completar detalhes que vocêÂª precisava preservar. A referêÂªncia precisa mostrar o que importa.",
+    "antes": "Foto escura, alêÂ§a cortada e vêÂ¡rios objetos competindo.",
+    "depois": "Foto clara de um objeto inteiro com fundo simples e espaêÂ§o ao redor.",
     "campos": [
-      "ReferÃªncia: foto prÃ³pria do objeto",
-      "ConferÃªncia: forma, cor e detalhes visÃ­veis",
+      "ReferêÂªncia: foto prêÂ³pria do objeto",
+      "ConferêÂªncia: forma, cor e detalhes visêÂ­veis",
       "Arquivo: 01-referencia-original"
     ],
     "passos": [
       "Escolha um objeto simples, coloque perto da janela e fotografe sem cobrir suas partes importantes.",
-      "Abra a foto na galeria e amplie. Confira forma, cor, foco e partes cortadas. RefaÃ§a se faltar informaÃ§Ã£o.",
-      "Na galeria, use Editar e Recortar, escolha o formato vertical e salve como cÃ³pia. Preserve o original. Anote trÃªs detalhes para conferir nas geraÃ§Ãµes."
+      "Abra a foto na galeria e amplie. Confira forma, cor, foco e partes cortadas. RefaêÂ§a se faltar informaêÂ§êÂ£o.",
+      "Na galeria, use Editar e Recortar, escolha o formato vertical e salve como cêÂ³pia. Preserve o original. Anote trêÂªs detalhes para conferir nas geraêÂ§êÂµes."
     ],
-    "molde": "Arquivo: <nome da foto>\nObjeto: <descriÃ§Ã£o>\nDetalhes fixos: <cor>, <forma>, <peÃ§a importante>\nCorte vertical: <inteiro ou refazer>\nEscolhida porque: <motivo>",
-    "pronto": "uma foto prÃ³pria estÃ¡ salva e trÃªs detalhes verificÃ¡veis foram anotados",
-    "confira": "O objeto precisa caber inteiro no enquadramento necessÃ¡rio, com seus detalhes importantes visÃ­veis.",
-    "calma": "Sem o produto do projeto agora, pratique com uma xÃ­cara ou outro objeto que esteja perto. Troque a referÃªncia antes da produÃ§Ã£o definitiva.",
-    "q": "A alÃ§a ficou fora da foto inicial. Qual Ã© a melhor correÃ§Ã£o?",
+    "molde": "Arquivo: <nome da foto>\nObjeto: <descriêÂ§êÂ£o>\nDetalhes fixos: <cor>, <forma>, <peêÂ§a importante>\nCorte vertical: <inteiro ou refazer>\nEscolhida porque: <motivo>",
+    "pronto": "uma foto prêÂ³pria estêÂ¡ salva e trêÂªs detalhes verificêÂ¡veis foram anotados",
+    "confira": "O objeto precisa caber inteiro no enquadramento necessêÂ¡rio, com seus detalhes importantes visêÂ­veis.",
+    "calma": "Sem o produto do projeto agora, pratique com uma xêÂ­cara ou outro objeto que esteja perto. Troque a referêÂªncia antes da produêÂ§êÂ£o definitiva.",
+    "q": "A alêÂ§a ficou fora da foto inicial. Qual êÂ© a melhor correêÂ§êÂ£o?",
     "opcoes": [
       "Pedir ao gerador que adivinhe",
-      "Refazer a foto mostrando a alÃ§a",
+      "Refazer a foto mostrando a alêÂ§a",
       "Adicionar mais adjetivos ao pedido"
     ],
     "correta": 1,
-    "observacao": "A alÃ§a e o contorno da xÃ­cara estÃ£o visÃ­veis. Esta Ã© uma ilustraÃ§Ã£o; faÃ§a sua prÃ³pria foto para representar um produto real.",
-    "ex1": "Caio limpa o fundo antes de fotografar e deixa a alÃ§a aparecendo.",
-    "ex2": "Helena guarda a foto original para comparar a cor da xÃ­cara com os vÃ­deos posteriores.",
-    "tarefa": "Prepare uma referÃªncia que mostra o produto",
+    "observacao": "A alêÂ§a e o contorno da xêÂ­cara estêÂ£o visêÂ­veis. Esta êÂ© uma ilustraêÂ§êÂ£o; faêÂ§a sua prêÂ³pria foto para representar um produto real.",
+    "ex1": "Caio limpa o fundo antes de fotografar e deixa a alêÂ§a aparecendo.",
+    "ex2": "Helena guarda a foto original para comparar a cor da xêÂ­cara com os vêÂ­deos posteriores.",
+    "tarefa": "Prepare uma referêÂªncia que mostra o produto",
     "resumo": [
-      "ReferÃªncia: foto prÃ³pria do objeto",
-      "ConferÃªncia: forma, cor e detalhes visÃ­veis",
+      "ReferêÂªncia: foto prêÂ³pria do objeto",
+      "ConferêÂªncia: forma, cor e detalhes visêÂ­veis",
       "Arquivo: 01-referencia-original"
     ],
     "cartoes": [
       [
-        "A alÃ§a ficou fora da foto inicial. Qual Ã© a melhor correÃ§Ã£o?",
-        "Refazer a foto mostrando a alÃ§a"
+        "A alêÂ§a ficou fora da foto inicial. Qual êÂ© a melhor correêÂ§êÂ£o?",
+        "Refazer a foto mostrando a alêÂ§a"
       ],
       [
         "O que conferir antes de seguir?",
-        "O objeto precisa caber inteiro no enquadramento necessÃ¡rio, com seus detalhes importantes visÃ­veis."
+        "O objeto precisa caber inteiro no enquadramento necessêÂ¡rio, com seus detalhes importantes visêÂ­veis."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "uma foto prÃ³pria estÃ¡ salva e trÃªs detalhes verificÃ¡veis foram anotados"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "uma foto prêÂ³pria estêÂ¡ salva e trêÂªs detalhes verificêÂ¡veis foram anotados"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de prÃ¡tica."
+    "tempo_pratica": "Cerca de 10 minutos de prêÂ¡tica."
   },
   {
-    "titulo": "Fixe a aparÃªncia antes de variar as cenas",
-    "entrega": "registrar trÃªs caracterÃ­sticas fixas e uma mudanÃ§a permitida",
+    "titulo": "Fixe a aparêÂªncia antes de variar as cenas",
+    "entrega": "registrar trêÂªs caracterêÂ­sticas fixas e uma mudanêÂ§a permitida",
     "dor": "Um rosto ou produto que muda a cada corte distrai. Uma ficha curta ajuda a reconhecer o mesmo projeto em cenas diferentes.",
-    "antes": "Cada plano troca a cor da xÃ­cara, o tipo de mesa e o estilo visual.",
-    "depois": "Manter xÃ­cara, madeira e luz; variar somente a distÃ¢ncia do enquadramento.",
+    "antes": "Cada plano troca a cor da xêÂ­cara, o tipo de mesa e o estilo visual.",
+    "depois": "Manter xêÂ­cara, madeira e luz; variar somente a distêÂ¢ncia do enquadramento.",
     "campos": [
-      "Fixos: cor da xÃ­cara, madeira, luz suave",
-      "Pode mudar: plano prÃ³ximo ou aberto",
-      "Personagem: dispensÃ¡vel neste primeiro vÃ­deo"
+      "Fixos: cor da xêÂ­cara, madeira, luz suave",
+      "Pode mudar: plano prêÂ³ximo ou aberto",
+      "Personagem: dispensêÂ¡vel neste primeiro vêÂ­deo"
     ],
     "passos": [
-      "Abra a referÃªncia da aula anterior e escolha trÃªs caracterÃ­sticas fixas que vocÃª consegue apontar nela.",
-      "Defina uma mudanÃ§a permitida entre as cenas, como enquadramento mais prÃ³ximo.",
-      "Escreva se haverÃ¡ personagem e por quÃª. No caminho simples, registre sem rosto e mantenha foco no produto."
+      "Abra a referêÂªncia da aula anterior e escolha trêÂªs caracterêÂ­sticas fixas que vocêÂª consegue apontar nela.",
+      "Defina uma mudanêÂ§a permitida entre as cenas, como enquadramento mais prêÂ³ximo.",
+      "Escreva se haverêÂ¡ personagem e por quêÂª. No caminho simples, registre sem rosto e mantenha foco no produto."
     ],
-    "molde": "Fixos: 1.<detalhe> 2.<detalhe> 3.<detalhe>\nPode mudar: <uma escolha>\nEstilo: fotografia ou desenho\nPersonagem: sem rosto / <ficha e autorizaÃ§Ã£o>\nConferir em cada cena: <lista>",
-    "pronto": "a ficha separa trÃªs caracterÃ­sticas fixas de uma mudanÃ§a permitida",
-    "confira": "O nome de um personagem ou produto organiza o pedido; a imagem Ã© que mostra se ele foi preservado.",
-    "calma": "Se controlar um rosto parece difÃ­cil, mantenha somente o objeto. Um vÃ­deo Ãºtil nÃ£o depende de uma pessoa em cena.",
+    "molde": "Fixos: 1.<detalhe> 2.<detalhe> 3.<detalhe>\nPode mudar: <uma escolha>\nEstilo: fotografia ou desenho\nPersonagem: sem rosto / <ficha e autorizaêÂ§êÂ£o>\nConferir em cada cena: <lista>",
+    "pronto": "a ficha separa trêÂªs caracterêÂ­sticas fixas de uma mudanêÂ§a permitida",
+    "confira": "O nome de um personagem ou produto organiza o pedido; a imagem êÂ© que mostra se ele foi preservado.",
+    "calma": "Se controlar um rosto parece difêÂ­cil, mantenha somente o objeto. Um vêÂ­deo êÂºtil nêÂ£o depende de uma pessoa em cena.",
     "q": "O personagem tem o mesmo nome, mas mudou de rosto. Isso comprova continuidade?",
     "opcoes": [
-      "NÃ£o; compare e corrija a imagem",
-      "Sim, se a resoluÃ§Ã£o estiver alta",
+      "NêÂ£o; compare e corrija a imagem",
+      "Sim, se a resoluêÂ§êÂ£o estiver alta",
       "Sim, o nome resolve"
     ],
     "correta": 0,
     "observacao": "Os enquadramentos variam e preservam uma paleta semelhante. Compare os detalhes; imagens independentes podem mudar a forma exata do objeto.",
     "ex1": "Caio escolhe fotografia com luz de janela e adia o personagem falante para outro projeto.",
-    "ex2": "Helena permite um plano mais aberto, mas confere se o produto continua reconhecÃ­vel.",
-    "tarefa": "Fixe a aparÃªncia antes de variar as cenas",
+    "ex2": "Helena permite um plano mais aberto, mas confere se o produto continua reconhecêÂ­vel.",
+    "tarefa": "Fixe a aparêÂªncia antes de variar as cenas",
     "resumo": [
-      "Fixos: cor da xÃ­cara, madeira, luz suave",
-      "Pode mudar: plano prÃ³ximo ou aberto",
-      "Personagem: dispensÃ¡vel neste primeiro vÃ­deo"
+      "Fixos: cor da xêÂ­cara, madeira, luz suave",
+      "Pode mudar: plano prêÂ³ximo ou aberto",
+      "Personagem: dispensêÂ¡vel neste primeiro vêÂ­deo"
     ],
     "cartoes": [
       [
         "O personagem tem o mesmo nome, mas mudou de rosto. Isso comprova continuidade?",
-        "NÃ£o; compare e corrija a imagem"
+        "NêÂ£o; compare e corrija a imagem"
       ],
       [
         "O que conferir antes de seguir?",
-        "O nome de um personagem ou produto organiza o pedido; a imagem Ã© que mostra se ele foi preservado."
+        "O nome de um personagem ou produto organiza o pedido; a imagem êÂ© que mostra se ele foi preservado."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "a ficha separa trÃªs caracterÃ­sticas fixas de uma mudanÃ§a permitida"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "a ficha separa trêÂªs caracterêÂ­sticas fixas de uma mudanêÂ§a permitida"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de prÃ¡tica."
+    "tempo_pratica": "Cerca de 10 minutos de prêÂ¡tica."
   },
   {
     "titulo": "Desenhe o storyboard de quatro cenas",
     "entrega": "montar quatro quadros com imagem, movimento e tempo",
-    "dor": "Um roteiro vira produÃ§Ã£o quando cada frase encontra uma imagem e um lugar na sequÃªncia. Rascunhos simples bastam para planejar.",
-    "antes": "Uma cena de vinte segundos com cÃ¢mera girando, cliente entrando e produto se transformando.",
-    "depois": "Quatro cenas curtas, cada uma com uma informaÃ§Ã£o e uma aÃ§Ã£o simples.",
+    "dor": "Um roteiro vira produêÂ§êÂ£o quando cada frase encontra uma imagem e um lugar na sequêÂªncia. Rascunhos simples bastam para planejar.",
+    "antes": "Uma cena de vinte segundos com cêÂ¢mera girando, cliente entrando e produto se transformando.",
+    "depois": "Quatro cenas curtas, cada uma com uma informaêÂ§êÂ£o e uma aêÂ§êÂ£o simples.",
     "campos": [
-      "Ordem: xÃ­cara â†’ lanche â†’ ambiente â†’ convite",
-      "Tempos de ediÃ§Ã£o: 4 + 4 + 5 + 5 = 18 segundos",
-      "AÃ§Ã£o por plano: sÃ³ uma"
+      "Ordem: xêÂ­cara ê¢â â lanche ê¢â â ambiente ê¢â â convite",
+      "Tempos de ediêÂ§êÂ£o: 4 + 4 + 5 + 5 = 18 segundos",
+      "AêÂ§êÂ£o por plano: sêÂ³ uma"
     ],
     "passos": [
-      "Desenhe quatro retÃ¢ngulos e coloque uma imagem simples para cada linha do roteiro.",
-      "Escreva uma aÃ§Ã£o por quadro e uma duraÃ§Ã£o de ediÃ§Ã£o. Um plano pode ficar parado: anote sem aÃ§Ã£o e cÃ¢mera parada. Some os tempos.",
-      "Confira a soma entre 15 e 20 segundos. Leia o convite em voz alta dentro do tempo do Ãºltimo quadro e deixe espaÃ§o para o texto."
+      "Desenhe quatro retêÂ¢ngulos e coloque uma imagem simples para cada linha do roteiro.",
+      "Escreva uma aêÂ§êÂ£o por quadro e uma duraêÂ§êÂ£o de ediêÂ§êÂ£o. Um plano pode ficar parado: anote sem aêÂ§êÂ£o e cêÂ¢mera parada. Some os tempos.",
+      "Confira a soma entre 15 e 20 segundos. Leia o convite em voz alta dentro do tempo do êÂºltimo quadro e deixe espaêÂ§o para o texto."
     ],
-    "molde": "01 xÃ­cara | vapor sobe | 4 s\n02 lanche | aproximaÃ§Ã£o lenta | 4 s\n03 ambiente | cÃ¢mera parada | 5 s\n04 produto e convite | cÃ¢mera parada | 5 s\nTotal: 18 s\nImagens ainda a produzir: <lista>",
-    "pronto": "quatro quadros tÃªm imagem, aÃ§Ã£o e duraÃ§Ã£o, com soma entre 15 e 20 segundos",
-    "confira": "As duraÃ§Ãµes do storyboard sÃ£o metas para a montagem. Verifique quais duraÃ§Ãµes o gerador oferece antes de gerar.",
-    "calma": "NÃ£o precisa desenhar bem. Um cÃ­rculo para a xÃ­cara e um triÃ¢ngulo para o lanche jÃ¡ ajudam a escolher a ordem.",
-    "q": "O gerador oferece dez segundos, mas seu plano terÃ¡ quatro na montagem. O que fazer?",
+    "molde": "01 xêÂ­cara | vapor sobe | 4 s\n02 lanche | aproximaêÂ§êÂ£o lenta | 4 s\n03 ambiente | cêÂ¢mera parada | 5 s\n04 produto e convite | cêÂ¢mera parada | 5 s\nTotal: 18 s\nImagens ainda a produzir: <lista>",
+    "pronto": "quatro quadros têÂªm imagem, aêÂ§êÂ£o e duraêÂ§êÂ£o, com soma entre 15 e 20 segundos",
+    "confira": "As duraêÂ§êÂµes do storyboard sêÂ£o metas para a montagem. Verifique quais duraêÂ§êÂµes o gerador oferece antes de gerar.",
+    "calma": "NêÂ£o precisa desenhar bem. Um cêÂ­rculo para a xêÂ­cara e um triêÂ¢ngulo para o lanche jêÂ¡ ajudam a escolher a ordem.",
+    "q": "O gerador oferece dez segundos, mas seu plano terêÂ¡ quatro na montagem. O que fazer?",
     "opcoes": [
       "Acelerar tudo automaticamente",
       "Usar dez segundos sem revisar",
-      "Cortar um trecho Ãºtil na ediÃ§Ã£o"
+      "Cortar um trecho êÂºtil na ediêÂ§êÂ£o"
     ],
     "correta": 2,
-    "observacao": "As quatro impressÃµes representam a ordem das cenas. O movimento e o tempo precisam ser escritos na ficha; uma foto nÃ£o os demonstra.",
+    "observacao": "As quatro impressêÂµes representam a ordem das cenas. O movimento e o tempo precisam ser escritos na ficha; uma foto nêÂ£o os demonstra.",
     "ex1": "Caio distribui dezoito segundos entre os quatro quadros antes de abrir o gerador.",
-    "ex2": "Helena reserva cinco segundos para o convite final ficar legÃ­vel.",
+    "ex2": "Helena reserva cinco segundos para o convite final ficar legêÂ­vel.",
     "tarefa": "Desenhe o storyboard de quatro cenas",
     "resumo": [
-      "Ordem: xÃ­cara â†’ lanche â†’ ambiente â†’ convite",
-      "Tempos de ediÃ§Ã£o: 4 + 4 + 5 + 5 = 18 segundos",
-      "AÃ§Ã£o por plano: sÃ³ uma"
+      "Ordem: xêÂ­cara ê¢â â lanche ê¢â â ambiente ê¢â â convite",
+      "Tempos de ediêÂ§êÂ£o: 4 + 4 + 5 + 5 = 18 segundos",
+      "AêÂ§êÂ£o por plano: sêÂ³ uma"
     ],
     "cartoes": [
       [
-        "O gerador oferece dez segundos, mas seu plano terÃ¡ quatro na montagem. O que fazer?",
-        "Cortar um trecho Ãºtil na ediÃ§Ã£o"
+        "O gerador oferece dez segundos, mas seu plano terêÂ¡ quatro na montagem. O que fazer?",
+        "Cortar um trecho êÂºtil na ediêÂ§êÂ£o"
       ],
       [
         "O que conferir antes de seguir?",
-        "As duraÃ§Ãµes do storyboard sÃ£o metas para a montagem. Verifique quais duraÃ§Ãµes o gerador oferece antes de gerar."
+        "As duraêÂ§êÂµes do storyboard sêÂ£o metas para a montagem. Verifique quais duraêÂ§êÂµes o gerador oferece antes de gerar."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "quatro quadros tÃªm imagem, aÃ§Ã£o e duraÃ§Ã£o, com soma entre 15 e 20 segundos"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "quatro quadros têÂªm imagem, aêÂ§êÂ£o e duraêÂ§êÂ£o, com soma entre 15 e 20 segundos"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de prÃ¡tica."
+    "tempo_pratica": "Cerca de 10 minutos de prêÂ¡tica."
   },
   {
     "titulo": "Confira acesso, formato e custo antes de gerar",
-    "entrega": "preencher uma ficha de geraÃ§Ã£o com dados da sua conta",
-    "dor": "A interface muda e o saldo Ã© limitado. Conferir a configuraÃ§Ã£o antes de confirmar evita produzir no formato errado ou gastar alÃ©m do planejado.",
-    "antes": "Clicar em gerar sem conferir orientaÃ§Ã£o, modelo e nÃºmero de saÃ­das.",
-    "depois": "Anotar 9:16, modelo exibido, duraÃ§Ã£o, uma saÃ­da e custo antes de confirmar.",
+    "entrega": "preencher uma ficha de geraêÂ§êÂ£o com dados da sua conta",
+    "dor": "A interface muda e o saldo êÂ© limitado. Conferir a configuraêÂ§êÂ£o antes de confirmar evita produzir no formato errado ou gastar alêÂ©m do planejado.",
+    "antes": "Clicar em gerar sem conferir orientaêÂ§êÂ£o, modelo e nêÂºmero de saêÂ­das.",
+    "depois": "Anotar 9:16, modelo exibido, duraêÂ§êÂ£o, uma saêÂ­da e custo antes de confirmar.",
     "campos": [
-      "OrientaÃ§Ã£o: vertical 9:16",
-      "SaÃ­das por tentativa: uma",
+      "OrientaêÂ§êÂ£o: vertical 9:16",
+      "SaêÂ­das por tentativa: uma",
       "Custo e modelo: copiar o que a conta mostra"
     ],
     "passos": [
-      "Abra Flow ou Kling pelo link oficial no material complementar. Entre na sua conta e localize imagem para vÃ­deo.",
-      "Adicione a referÃªncia e confira orientaÃ§Ã£o, duraÃ§Ã£o, modelo, uma saÃ­da e custo. NÃ£o gere ainda.",
-      "Anote os dados e compare o gasto previsto com seu teto. Se nÃ£o houver acesso, registre o bloqueio e mantenha a geraÃ§Ã£o pendente."
+      "Abra Flow ou Kling pelo link oficial no material complementar. Entre na sua conta e localize imagem para vêÂ­deo.",
+      "Adicione a referêÂªncia e confira orientaêÂ§êÂ£o, duraêÂ§êÂ£o, modelo, uma saêÂ­da e custo. NêÂ£o gere ainda.",
+      "Anote os dados e compare o gasto previsto com seu teto. Se nêÂ£o houver acesso, registre o bloqueio e mantenha a geraêÂ§êÂ£o pendente."
     ],
-    "molde": "Ferramenta e modelo: <copiar da tela>\nOrientaÃ§Ã£o: 9:16\nDuraÃ§Ã£o disponÃ­vel: <segundos>\nSaÃ­das: 1\nCusto por tentativa: <crÃ©ditos exibidos>\nTeto de tentativas: <nÃºmero>\nCusto mÃ¡ximo: <multiplicaÃ§Ã£o>\nAcesso: pronto / pendente por <motivo>",
-    "pronto": "a configuraÃ§Ã£o real e o limite estÃ£o registrados, ou o bloqueio de acesso estÃ¡ identificado",
-    "confira": "CrÃ©ditos e duraÃ§Ãµes devem vir da sua tela atual. Um exemplo de aula nÃ£o substitui a configuraÃ§Ã£o da conta.",
-    "calma": "Se nÃ£o tiver acesso, termine o planejamento. Para concluir o vÃ­deo com IA, volte Ã  geraÃ§Ã£o quando puder usar uma ferramenta compatÃ­vel.",
-    "q": "A tela mostra quatro saÃ­das por tentativa, mas vocÃª planejou uma. O que fazer?",
+    "molde": "Ferramenta e modelo: <copiar da tela>\nOrientaêÂ§êÂ£o: 9:16\nDuraêÂ§êÂ£o disponêÂ­vel: <segundos>\nSaêÂ­das: 1\nCusto por tentativa: <crêÂ©ditos exibidos>\nTeto de tentativas: <nêÂºmero>\nCusto mêÂ¡ximo: <multiplicaêÂ§êÂ£o>\nAcesso: pronto / pendente por <motivo>",
+    "pronto": "a configuraêÂ§êÂ£o real e o limite estêÂ£o registrados, ou o bloqueio de acesso estêÂ¡ identificado",
+    "confira": "CrêÂ©ditos e duraêÂ§êÂµes devem vir da sua tela atual. Um exemplo de aula nêÂ£o substitui a configuraêÂ§êÂ£o da conta.",
+    "calma": "Se nêÂ£o tiver acesso, termine o planejamento. Para concluir o vêÂ­deo com IA, volte êÂ  geraêÂ§êÂ£o quando puder usar uma ferramenta compatêÂ­vel.",
+    "q": "A tela mostra quatro saêÂ­das por tentativa, mas vocêÂª planejou uma. O que fazer?",
     "opcoes": [
       "Confirmar e ver quanto gastou",
       "Ajustar a quantidade e revisar o custo",
-      "Ignorar porque o roteiro Ã© curto"
+      "Ignorar porque o roteiro êÂ© curto"
     ],
     "correta": 1,
-    "observacao": "A interface desenhada Ã© genÃ©rica e nÃ£o serve como mapa de botÃµes. Confira os nomes e valores na ferramenta real.",
-    "ex1": "Caio confere a orientaÃ§Ã£o antes de enviar a imagem; um clipe horizontal exigiria outro recorte.",
+    "observacao": "A interface desenhada êÂ© genêÂ©rica e nêÂ£o serve como mapa de botêÂµes. Confira os nomes e valores na ferramenta real.",
+    "ex1": "Caio confere a orientaêÂ§êÂ£o antes de enviar a imagem; um clipe horizontal exigiria outro recorte.",
     "ex2": "Helena anota o saldo e o custo mostrado para decidir quantas tentativas cabem no projeto.",
     "tarefa": "Confira acesso, formato e custo antes de gerar",
     "resumo": [
-      "OrientaÃ§Ã£o: vertical 9:16",
-      "SaÃ­das por tentativa: uma",
+      "OrientaêÂ§êÂ£o: vertical 9:16",
+      "SaêÂ­das por tentativa: uma",
       "Custo e modelo: copiar o que a conta mostra"
     ],
     "cartoes": [
       [
-        "A tela mostra quatro saÃ­das por tentativa, mas vocÃª planejou uma. O que fazer?",
+        "A tela mostra quatro saêÂ­das por tentativa, mas vocêÂª planejou uma. O que fazer?",
         "Ajustar a quantidade e revisar o custo"
       ],
       [
         "O que conferir antes de seguir?",
-        "CrÃ©ditos e duraÃ§Ãµes devem vir da sua tela atual. Um exemplo de aula nÃ£o substitui a configuraÃ§Ã£o da conta."
+        "CrêÂ©ditos e duraêÂ§êÂµes devem vir da sua tela atual. Um exemplo de aula nêÂ£o substitui a configuraêÂ§êÂ£o da conta."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "a configuraÃ§Ã£o real e o limite estÃ£o registrados, ou o bloqueio de acesso estÃ¡ identificado"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "a configuraêÂ§êÂ£o real e o limite estêÂ£o registrados, ou o bloqueio de acesso estêÂ¡ identificado"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de prÃ¡tica."
+    "tempo_pratica": "Cerca de 10 minutos de prêÂ¡tica."
   },
   {
-    "titulo": "Gere um plano com uma aÃ§Ã£o simples",
+    "titulo": "Gere um plano com uma aêÂ§êÂ£o simples",
     "entrega": "gerar, salvar e conferir um primeiro clipe de IA",
-    "dor": "A imagem jÃ¡ mostra o cenÃ¡rio. Agora o pedido precisa dizer o que se move, como se move e o que permanece estÃ¡vel.",
-    "antes": "A cÃ¢mera gira, o cafÃ© salta e a xÃ­cara muda de cor enquanto alguÃ©m entra.",
-    "depois": "O vapor sobe suavemente. CÃ¢mera parada. XÃ­cara mantÃ©m forma, cor e posiÃ§Ã£o.",
+    "dor": "A imagem jêÂ¡ mostra o cenêÂ¡rio. Agora o pedido precisa dizer o que se move, como se move e o que permanece estêÂ¡vel.",
+    "antes": "A cêÂ¢mera gira, o cafêÂ© salta e a xêÂ­cara muda de cor enquanto alguêÂ©m entra.",
+    "depois": "O vapor sobe suavemente. CêÂ¢mera parada. XêÂ­cara mantêÂ©m forma, cor e posiêÂ§êÂ£o.",
     "campos": [
-      "AÃ§Ã£o: vapor sobe suavemente",
-      "CÃ¢mera: parada",
-      "ConferÃªncia: inÃ­cio, meio, fim e reproduÃ§Ã£o completa"
+      "AêÂ§êÂ£o: vapor sobe suavemente",
+      "CêÂ¢mera: parada",
+      "ConferêÂªncia: inêÂ­cio, meio, fim e reproduêÂ§êÂ£o completa"
     ],
     "passos": [
-      "Na ferramenta configurada, adicione sua imagem inicial e adapte o pedido abaixo ao objeto. Confira o custo e gere uma saÃ­da.",
-      "Salve como 01-plano-tentativa1 e abra o arquivo. Assista inteiro, depois pause no inÃ­cio, meio e fim.",
-      "Registre aprovado ou refazer com um defeito concreto. Se necessÃ¡rio e dentro do teto, simplifique o pedido e faÃ§a mais uma tentativa."
+      "Na ferramenta configurada, adicione sua imagem inicial e adapte o pedido abaixo ao objeto. Confira o custo e gere uma saêÂ­da.",
+      "Salve como 01-plano-tentativa1 e abra o arquivo. Assista inteiro, depois pause no inêÂ­cio, meio e fim.",
+      "Registre aprovado ou refazer com um defeito concreto. Se necessêÂ¡rio e dentro do teto, simplifique o pedido e faêÂ§a mais uma tentativa."
     ],
-    "molde": "Pedido: vapor sobe suavemente acima da xÃ­cara. CÃ¢mera parada. Preserve a forma, a cor e a posiÃ§Ã£o do objeto.\nArquivo: <nome>\nModelo e custo: <dados reais>\nInÃ­cio/meio/fim: <observaÃ§Ã£o>\nDecisÃ£o: aprovado / refazer por <defeito>",
-    "pronto": "um clipe gerado foi salvo, reproduzido e recebeu uma decisÃ£o justificada",
-    "confira": "Assista ao arquivo inteiro. TrÃªs pausas ajudam a conferir detalhes, mas nÃ£o substituem observar o movimento.",
-    "calma": "Sem acesso ou saldo, mantenha a prÃ¡tica pendente. VocÃª pode escrever o pedido agora, mas isso ainda nÃ£o comprova geraÃ§Ã£o.",
-    "q": "O pedido foi aceito e estÃ¡ na fila. A prÃ¡tica estÃ¡ concluÃ­da?",
+    "molde": "Pedido: vapor sobe suavemente acima da xêÂ­cara. CêÂ¢mera parada. Preserve a forma, a cor e a posiêÂ§êÂ£o do objeto.\nArquivo: <nome>\nModelo e custo: <dados reais>\nInêÂ­cio/meio/fim: <observaêÂ§êÂ£o>\nDecisêÂ£o: aprovado / refazer por <defeito>",
+    "pronto": "um clipe gerado foi salvo, reproduzido e recebeu uma decisêÂ£o justificada",
+    "confira": "Assista ao arquivo inteiro. TrêÂªs pausas ajudam a conferir detalhes, mas nêÂ£o substituem observar o movimento.",
+    "calma": "Sem acesso ou saldo, mantenha a prêÂ¡tica pendente. VocêÂª pode escrever o pedido agora, mas isso ainda nêÂ£o comprova geraêÂ§êÂ£o.",
+    "q": "O pedido foi aceito e estêÂ¡ na fila. A prêÂ¡tica estêÂ¡ concluêÂ­da?",
     "opcoes": [
-      "NÃ£o; falta salvar e conferir o clipe",
-      "Sim, se a imagem inicial Ã© bonita",
+      "NêÂ£o; falta salvar e conferir o clipe",
+      "Sim, se a imagem inicial êÂ© bonita",
       "Sim, porque o texto foi enviado"
     ],
     "correta": 0,
-    "observacao": "O vapor sugere a aÃ§Ã£o desejada. Esta Ã© uma imagem parada gerada no Codex, nÃ£o um resultado de vÃ­deo do Kling ou Flow.",
-    "ex1": "Caio comeÃ§a com a cÃ¢mera parada para observar somente o vapor e a forma do objeto.",
-    "ex2": "Helena rejeita uma tentativa em que a alÃ§a muda, mesmo que a luz pareÃ§a bonita.",
-    "tarefa": "Gere um plano com uma aÃ§Ã£o simples",
+    "observacao": "O vapor sugere a aêÂ§êÂ£o desejada. Esta êÂ© uma imagem parada gerada no Codex, nêÂ£o um resultado de vêÂ­deo do Kling ou Flow.",
+    "ex1": "Caio comeêÂ§a com a cêÂ¢mera parada para observar somente o vapor e a forma do objeto.",
+    "ex2": "Helena rejeita uma tentativa em que a alêÂ§a muda, mesmo que a luz pareêÂ§a bonita.",
+    "tarefa": "Gere um plano com uma aêÂ§êÂ£o simples",
     "resumo": [
-      "AÃ§Ã£o: vapor sobe suavemente",
-      "CÃ¢mera: parada",
-      "ConferÃªncia: inÃ­cio, meio, fim e reproduÃ§Ã£o completa"
+      "AêÂ§êÂ£o: vapor sobe suavemente",
+      "CêÂ¢mera: parada",
+      "ConferêÂªncia: inêÂ­cio, meio, fim e reproduêÂ§êÂ£o completa"
     ],
     "cartoes": [
       [
-        "O pedido foi aceito e estÃ¡ na fila. A prÃ¡tica estÃ¡ concluÃ­da?",
-        "NÃ£o; falta salvar e conferir o clipe"
+        "O pedido foi aceito e estêÂ¡ na fila. A prêÂ¡tica estêÂ¡ concluêÂ­da?",
+        "NêÂ£o; falta salvar e conferir o clipe"
       ],
       [
         "O que conferir antes de seguir?",
-        "Assista ao arquivo inteiro. TrÃªs pausas ajudam a conferir detalhes, mas nÃ£o substituem observar o movimento."
+        "Assista ao arquivo inteiro. TrêÂªs pausas ajudam a conferir detalhes, mas nêÂ£o substituem observar o movimento."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "um clipe gerado foi salvo, reproduzido e recebeu uma decisÃ£o justificada"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "um clipe gerado foi salvo, reproduzido e recebeu uma decisêÂ£o justificada"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaÃ§Ãµes extras e correÃ§Ãµes podem pedir outra sessÃ£o.",
-    "aviso_tempo": "15 min de estudo guiado. A fila de geraÃ§Ã£o nÃ£o entra nesse tempo; retome a conferÃªncia quando o arquivo estiver pronto."
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaêÂ§êÂµes extras e correêÂ§êÂµes podem pedir outra sessêÂ£o.",
+    "aviso_tempo": "15 min de estudo guiado. A fila de geraêÂ§êÂ£o nêÂ£o entra nesse tempo; retome a conferêÂªncia quando o arquivo estiver pronto."
   },
   {
-    "titulo": "Revise um plano e organize a produÃ§Ã£o",
+    "titulo": "Revise um plano e organize a produêÂ§êÂ£o",
     "entrega": "revisar um clipe e registrar o que falta produzir",
-    "dor": "Uma imagem de abertura pode estar perfeita e o objeto deformar no meio. A revisÃ£o precisa acompanhar o tempo do vÃ­deo.",
+    "dor": "Uma imagem de abertura pode estar perfeita e o objeto deformar no meio. A revisêÂ£o precisa acompanhar o tempo do vêÂ­deo.",
     "antes": "Aprovar quatro arquivos olhando somente suas miniaturas.",
     "depois": "Assistir a um clipe inteiro, decidir o que pode ser usado e registrar os planos ainda pendentes.",
     "campos": [
@@ -428,25 +428,25 @@
       "Preservar: imagens iniciais e pedidos usados"
     ],
     "passos": [
-      "Abra o clipe da aula anterior e assista inteiro. Pause no inÃ­cio, meio e fim, comparando com sua imagem inicial.",
-      "Anote um defeito com o segundo aproximado, ou registre que nÃ£o encontrou erro no trecho escolhido. Decida aprovado, cortar ou refazer.",
-      "Crie a lista dos quatro planos e marque produzido ou pendente. Separe o arquivo revisado. Antes da aula10, complete os demais pela continuaÃ§Ã£o no material complementar."
+      "Abra o clipe da aula anterior e assista inteiro. Pause no inêÂ­cio, meio e fim, comparando com sua imagem inicial.",
+      "Anote um defeito com o segundo aproximado, ou registre que nêÂ£o encontrou erro no trecho escolhido. Decida aprovado, cortar ou refazer.",
+      "Crie a lista dos quatro planos e marque produzido ou pendente. Separe o arquivo revisado. Antes da aula10, complete os demais pela continuaêÂ§êÂ£o no material complementar."
     ],
-    "molde": "01-xicara | arquivo <nome> | trecho <inÃ­cioâ€“fim> | decisÃ£o\n02-lanche | arquivo <nome> | trecho <inÃ­cioâ€“fim> | decisÃ£o\n03-ambiente | arquivo <nome> | trecho <inÃ­cioâ€“fim> | decisÃ£o\n04-convite | arquivo <nome> | trecho <inÃ­cioâ€“fim> | decisÃ£o\nPendÃªncias: <lista>\nTotal planejado: <segundos>",
-    "pronto": "um clipe tem revisÃ£o documentada e os quatro planos tÃªm situaÃ§Ã£o registrada",
-    "confira": "NÃ£o chame um plano de aprovado enquanto houver um defeito importante no trecho que entrarÃ¡ na ediÃ§Ã£o.",
-    "calma": "Se nÃ£o hÃ¡ clipe gerado, retome a aula8. A revisÃ£o precisa de um arquivo real; a figura desta aula serve apenas para entender o tipo de defeito.",
-    "q": "A xÃ­cara ganha uma segunda alÃ§a apenas no meio do clipe. Qual registro Ã© Ãºtil?",
+    "molde": "01-xicara | arquivo <nome> | trecho <inêÂ­cioê¢â¬âfim> | decisêÂ£o\n02-lanche | arquivo <nome> | trecho <inêÂ­cioê¢â¬âfim> | decisêÂ£o\n03-ambiente | arquivo <nome> | trecho <inêÂ­cioê¢â¬âfim> | decisêÂ£o\n04-convite | arquivo <nome> | trecho <inêÂ­cioê¢â¬âfim> | decisêÂ£o\nPendêÂªncias: <lista>\nTotal planejado: <segundos>",
+    "pronto": "um clipe tem revisêÂ£o documentada e os quatro planos têÂªm situaêÂ§êÂ£o registrada",
+    "confira": "NêÂ£o chame um plano de aprovado enquanto houver um defeito importante no trecho que entrarêÂ¡ na ediêÂ§êÂ£o.",
+    "calma": "Se nêÂ£o hêÂ¡ clipe gerado, retome a aula8. A revisêÂ£o precisa de um arquivo real; a figura desta aula serve apenas para entender o tipo de defeito.",
+    "q": "A xêÂ­cara ganha uma segunda alêÂ§a apenas no meio do clipe. Qual registro êÂ© êÂºtil?",
     "opcoes": [
       "O produto precisa de mais contraste",
-      "O plano ficou pouco cARCKHÉtogrÃ¡fico",
-      "AlÃ§a extra aos dois segundos; revisar"
+      "O plano ficou pouco cARCKHêtogrêÂ¡fico",
+      "AlêÂ§a extra aos dois segundos; revisar"
     ],
     "correta": 2,
-    "observacao": "A imagem central tem duas alÃ§as, ao contrÃ¡rio das laterais. Ã‰ uma falha ilustrativa criada para exercitar a inspeÃ§Ã£o.",
-    "ex1": "Caio registra o momento exato do defeito antes de decidir se existe um trecho aproveitÃ¡vel.",
+    "observacao": "A imagem central tem duas alêÂ§as, ao contrêÂ¡rio das laterais. êâ° uma falha ilustrativa criada para exercitar a inspeêÂ§êÂ£o.",
+    "ex1": "Caio registra o momento exato do defeito antes de decidir se existe um trecho aproveitêÂ¡vel.",
     "ex2": "Helena separa aprovado e tentativa, depois lista os planos que ainda precisam ser produzidos.",
-    "tarefa": "Revise um plano e organize a produÃ§Ã£o",
+    "tarefa": "Revise um plano e organize a produêÂ§êÂ£o",
     "resumo": [
       "Revisar: forma, cor e movimento durante o clipe",
       "Organizar: aprovado separado de tentativa",
@@ -454,176 +454,176 @@
     ],
     "cartoes": [
       [
-        "A xÃ­cara ganha uma segunda alÃ§a apenas no meio do clipe. Qual registro Ã© Ãºtil?",
-        "AlÃ§a extra aos dois segundos; revisar"
+        "A xêÂ­cara ganha uma segunda alêÂ§a apenas no meio do clipe. Qual registro êÂ© êÂºtil?",
+        "AlêÂ§a extra aos dois segundos; revisar"
       ],
       [
         "O que conferir antes de seguir?",
-        "NÃ£o chame um plano de aprovado enquanto houver um defeito importante no trecho que entrarÃ¡ na ediÃ§Ã£o."
+        "NêÂ£o chame um plano de aprovado enquanto houver um defeito importante no trecho que entrarêÂ¡ na ediêÂ§êÂ£o."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "um clipe tem revisÃ£o documentada e os quatro planos tÃªm situaÃ§Ã£o registrada"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "um clipe tem revisêÂ£o documentada e os quatro planos têÂªm situaêÂ§êÂ£o registrada"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaÃ§Ãµes extras e correÃ§Ãµes podem pedir outra sessÃ£o.",
-    "aviso_tempo": "15 min para estudar e revisar um clipe jÃ¡ gerado. Completar os outros planos exige produÃ§Ã£o adicional antes da aula10.",
-    "complemento": "ContinuaÃ§Ã£o necessÃ¡ria antes da aula10"
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaêÂ§êÂµes extras e correêÂ§êÂµes podem pedir outra sessêÂ£o.",
+    "aviso_tempo": "15 min para estudar e revisar um clipe jêÂ¡ gerado. Completar os outros planos exige produêÂ§êÂ£o adicional antes da aula10.",
+    "complemento": "ContinuaêÂ§êÂ£o necessêÂ¡ria antes da aula10"
   },
   {
-    "titulo": "Monte uma primeira versÃ£o no CapCut",
-    "entrega": "montar quatro clipes em uma sequÃªncia de 15 a 20 segundos",
-    "dor": "A ediÃ§Ã£o comeÃ§a pela ordem e pelo tempo. Antes de efeitos, veja se o vÃ­deo mostra uma mensagem que vocÃª consegue acompanhar.",
-    "antes": "Importar todos os testes, adicionar efeitos e sÃ³ depois pensar na ordem.",
-    "depois": "Importar os quatro aprovados, ordenar, cortar e conferir a duraÃ§Ã£o.",
+    "titulo": "Monte uma primeira versêÂ£o no CapCut",
+    "entrega": "montar quatro clipes em uma sequêÂªncia de 15 a 20 segundos",
+    "dor": "A ediêÂ§êÂ£o comeêÂ§a pela ordem e pelo tempo. Antes de efeitos, veja se o vêÂ­deo mostra uma mensagem que vocêÂª consegue acompanhar.",
+    "antes": "Importar todos os testes, adicionar efeitos e sêÂ³ depois pensar na ordem.",
+    "depois": "Importar os quatro aprovados, ordenar, cortar e conferir a duraêÂ§êÂ£o.",
     "campos": [
       "Ordem: os quatro planos do storyboard",
       "Formato: vertical 9:16 com objeto inteiro",
-      "DuraÃ§Ã£o: entre 15 e 20 segundos"
+      "DuraêÂ§êÂ£o: entre 15 e 20 segundos"
     ],
     "passos": [
       "Crie o projeto no CapCut, importe os quatro clipes aprovados e coloque-os na linha do tempo em ordem.",
-      "Ajuste para 9:16, confira os recortes e reduza as bordas dos clipes atÃ© obter 15 a 20 segundos.",
-      "Reproduza a sequÃªncia inteira sem efeitos. Salve o projeto com nome e versÃ£o, preservando os arquivos originais."
+      "Ajuste para 9:16, confira os recortes e reduza as bordas dos clipes atêÂ© obter 15 a 20 segundos.",
+      "Reproduza a sequêÂªncia inteira sem efeitos. Salve o projeto com nome e versêÂ£o, preservando os arquivos originais."
     ],
-    "molde": "Projeto: ponto-da-pausa-v1\nOrdem: 01 â†’ 02 â†’ 03 â†’ 04\nFormato: 9:16\nDuraÃ§Ã£o medida: <segundos>\nCorte que melhorou: <descrever>\nArquivos originais guardados em: <pasta>",
-    "pronto": "o projeto reproduz os quatro planos em ordem, em 9:16, com duraÃ§Ã£o medida de 15 a 20 segundos",
-    "confira": "Confira a sequÃªncia reproduzida, nÃ£o apenas os blocos na linha do tempo.",
-    "calma": "Se ainda nÃ£o tem quatro clipes, volte Ã s pendÃªncias da aula anterior. VocÃª pode treinar cortes com arquivos prÃ³prios, sem confundir isso com o projeto final.",
+    "molde": "Projeto: ponto-da-pausa-v1\nOrdem: 01 ê¢â â 02 ê¢â â 03 ê¢â â 04\nFormato: 9:16\nDuraêÂ§êÂ£o medida: <segundos>\nCorte que melhorou: <descrever>\nArquivos originais guardados em: <pasta>",
+    "pronto": "o projeto reproduz os quatro planos em ordem, em 9:16, com duraêÂ§êÂ£o medida de 15 a 20 segundos",
+    "confira": "Confira a sequêÂªncia reproduzida, nêÂ£o apenas os blocos na linha do tempo.",
+    "calma": "Se ainda nêÂ£o tem quatro clipes, volte êÂ s pendêÂªncias da aula anterior. VocêÂª pode treinar cortes com arquivos prêÂ³prios, sem confundir isso com o projeto final.",
     "q": "O produto ficou cortado depois de mudar para vertical. O que revisar?",
     "opcoes": [
-      "O ritmo da mÃºsica na cena",
-      "A posiÃ§Ã£o e a escala no quadro",
-      "A resoluÃ§Ã£o escolhida na exportaÃ§Ã£o"
+      "O ritmo da mêÂºsica na cena",
+      "A posiêÂ§êÂ£o e a escala no quadro",
+      "A resoluêÂ§êÂ£o escolhida na exportaêÂ§êÂ£o"
     ],
     "correta": 1,
-    "observacao": "A linha do tempo ilustrada representa clipes em sequÃªncia. Ã‰ uma interface genÃ©rica, nÃ£o uma captura do CapCut.",
-    "ex1": "Caio corta um inÃ­cio sem aÃ§Ã£o e percebe que a mensagem aparece mais cedo.",
-    "ex2": "Helena assiste Ã  montagem no tamanho do celular para conferir o produto inteiro.",
-    "tarefa": "Monte uma primeira versÃ£o no CapCut",
+    "observacao": "A linha do tempo ilustrada representa clipes em sequêÂªncia. êâ° uma interface genêÂ©rica, nêÂ£o uma captura do CapCut.",
+    "ex1": "Caio corta um inêÂ­cio sem aêÂ§êÂ£o e percebe que a mensagem aparece mais cedo.",
+    "ex2": "Helena assiste êÂ  montagem no tamanho do celular para conferir o produto inteiro.",
+    "tarefa": "Monte uma primeira versêÂ£o no CapCut",
     "resumo": [
       "Ordem: os quatro planos do storyboard",
       "Formato: vertical 9:16 com objeto inteiro",
-      "DuraÃ§Ã£o: entre 15 e 20 segundos"
+      "DuraêÂ§êÂ£o: entre 15 e 20 segundos"
     ],
     "cartoes": [
       [
         "O produto ficou cortado depois de mudar para vertical. O que revisar?",
-        "A posiÃ§Ã£o e a escala no quadro"
+        "A posiêÂ§êÂ£o e a escala no quadro"
       ],
       [
         "O que conferir antes de seguir?",
-        "Confira a sequÃªncia reproduzida, nÃ£o apenas os blocos na linha do tempo."
+        "Confira a sequêÂªncia reproduzida, nêÂ£o apenas os blocos na linha do tempo."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "o projeto reproduz os quatro planos em ordem, em 9:16, com duraÃ§Ã£o medida de 15 a 20 segundos"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "o projeto reproduz os quatro planos em ordem, em 9:16, com duraêÂ§êÂ£o medida de 15 a 20 segundos"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaÃ§Ãµes extras e correÃ§Ãµes podem pedir outra sessÃ£o."
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaêÂ§êÂµes extras e correêÂ§êÂµes podem pedir outra sessêÂ£o."
   },
   {
     "titulo": "Grave a voz e revise as legendas",
-    "entrega": "adicionar narraÃ§Ã£o prÃ³pria e legendas conferidas",
-    "dor": "Uma voz clara ajuda a entender. MÃºsica alta e legenda errada podem desfazer o cuidado que vocÃª teve com as imagens.",
-    "antes": "Aceitar as legendas automÃ¡ticas sem ouvir e cobrir o produto com texto.",
-    "depois": "Ouvir cada frase, corrigir o texto e posicionar a legenda em uma Ã¡rea livre.",
+    "entrega": "adicionar narraêÂ§êÂ£o prêÂ³pria e legendas conferidas",
+    "dor": "Uma voz clara ajuda a entender. MêÂºsica alta e legenda errada podem desfazer o cuidado que vocêÂª teve com as imagens.",
+    "antes": "Aceitar as legendas automêÂ¡ticas sem ouvir e cobrir o produto com texto.",
+    "depois": "Ouvir cada frase, corrigir o texto e posicionar a legenda em uma êÂ¡rea livre.",
     "campos": [
-      "Voz: clara, prÃ³pria e alinhada Ã s cenas",
+      "Voz: clara, prêÂ³pria e alinhada êÂ s cenas",
       "Legenda: palavras e tempos revisados",
       "Teste: ouvir e depois assistir sem som"
     ],
     "passos": [
-      "Grave as quatro linhas em local silencioso. OuÃ§a, importe e alinhe Ã s cenas. Se o som dos clipes competir, selecione-os e reduza Volume ou silencie.",
-      "Gere legendas em portuguÃªs ou crie textos manuais. Corrija cada linha e ajuste o tempo para acompanhar a fala.",
-      "Reproduza no tamanho do celular com som e sem som. Confira clareza, leitura e produto visÃ­vel."
+      "Grave as quatro linhas em local silencioso. OuêÂ§a, importe e alinhe êÂ s cenas. Se o som dos clipes competir, selecione-os e reduza Volume ou silencie.",
+      "Gere legendas em portuguêÂªs ou crie textos manuais. Corrija cada linha e ajuste o tempo para acompanhar a fala.",
+      "Reproduza no tamanho do celular com som e sem som. Confira clareza, leitura e produto visêÂ­vel."
     ],
-    "molde": "Arquivo de voz: <nome>\nFrase que precisei regravar: <ou nenhuma>\nLegenda corrigida: <antes â†’ depois, ou conferida sem erro>\nTeste com som: <resultado>\nTeste sem som: <resultado>",
-    "pronto": "a narraÃ§Ã£o estÃ¡ alinhada e todas as legendas foram conferidas no projeto",
-    "confira": "A geraÃ§Ã£o automÃ¡tica economiza digitaÃ§Ã£o, mas a revisÃ£o decide se a fala e o texto concordam.",
-    "calma": "Sem legenda automÃ¡tica, use quatro textos manuais, um para cada linha. VocÃª continua praticando leitura e sincronizaÃ§Ã£o.",
+    "molde": "Arquivo de voz: <nome>\nFrase que precisei regravar: <ou nenhuma>\nLegenda corrigida: <antes ê¢â â depois, ou conferida sem erro>\nTeste com som: <resultado>\nTeste sem som: <resultado>",
+    "pronto": "a narraêÂ§êÂ£o estêÂ¡ alinhada e todas as legendas foram conferidas no projeto",
+    "confira": "A geraêÂ§êÂ£o automêÂ¡tica economiza digitaêÂ§êÂ£o, mas a revisêÂ£o decide se a fala e o texto concordam.",
+    "calma": "Sem legenda automêÂ¡tica, use quatro textos manuais, um para cada linha. VocêÂª continua praticando leitura e sincronizaêÂ§êÂ£o.",
     "q": "A legenda escreveu o nome da cafeteria errado. O que fazer?",
     "opcoes": [
-      "Corrigir o texto e conferir durante a reproduÃ§Ã£o",
+      "Corrigir o texto e conferir durante a reproduêÂ§êÂ£o",
       "Diminuir a legenda para o erro aparecer menos",
       "Deixar porque foi a IA"
     ],
     "correta": 0,
-    "observacao": "A cena mostra uma gravaÃ§Ã£o de voz. As formas de onda e faixas de legenda sÃ£o ilustrativas, sem demonstrar qualidade de Ã¡udio.",
-    "ex1": "Caio desliga um ventilador prÃ³ximo antes de regravar uma frase com ruÃ­do.",
-    "ex2": "Helena corrige o nome Ponto da Pausa e confere se a legenda nÃ£o cobre a xÃ­cara.",
+    "observacao": "A cena mostra uma gravaêÂ§êÂ£o de voz. As formas de onda e faixas de legenda sêÂ£o ilustrativas, sem demonstrar qualidade de êÂ¡udio.",
+    "ex1": "Caio desliga um ventilador prêÂ³ximo antes de regravar uma frase com ruêÂ­do.",
+    "ex2": "Helena corrige o nome Ponto da Pausa e confere se a legenda nêÂ£o cobre a xêÂ­cara.",
     "tarefa": "Grave a voz e revise as legendas",
     "resumo": [
-      "Voz: clara, prÃ³pria e alinhada Ã s cenas",
+      "Voz: clara, prêÂ³pria e alinhada êÂ s cenas",
       "Legenda: palavras e tempos revisados",
       "Teste: ouvir e depois assistir sem som"
     ],
     "cartoes": [
       [
         "A legenda escreveu o nome da cafeteria errado. O que fazer?",
-        "Corrigir o texto e conferir durante a reproduÃ§Ã£o"
+        "Corrigir o texto e conferir durante a reproduêÂ§êÂ£o"
       ],
       [
         "O que conferir antes de seguir?",
-        "A geraÃ§Ã£o automÃ¡tica economiza digitaÃ§Ã£o, mas a revisÃ£o decide se a fala e o texto concordam."
+        "A geraêÂ§êÂ£o automêÂ¡tica economiza digitaêÂ§êÂ£o, mas a revisêÂ£o decide se a fala e o texto concordam."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "a narraÃ§Ã£o estÃ¡ alinhada e todas as legendas foram conferidas no projeto"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "a narraêÂ§êÂ£o estêÂ¡ alinhada e todas as legendas foram conferidas no projeto"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaÃ§Ãµes extras e correÃ§Ãµes podem pedir outra sessÃ£o."
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaêÂ§êÂµes extras e correêÂ§êÂµes podem pedir outra sessêÂ£o."
   },
   {
     "titulo": "Exporte, confira e publique com contexto",
-    "entrega": "exportar e revisar o vÃ­deo, registrando sua entrega",
-    "dor": "O projeto pode parecer certo no editor e sair com cortes ou textos errados. A Ãºltima revisÃ£o deve acontecer no arquivo exportado.",
-    "antes": "Exportar e publicar sem abrir o arquivo final, apresentando a cafeteria fictÃ­cia como real.",
+    "entrega": "exportar e revisar o vêÂ­deo, registrando sua entrega",
+    "dor": "O projeto pode parecer certo no editor e sair com cortes ou textos errados. A êÂºltima revisêÂ£o deve acontecer no arquivo exportado.",
+    "antes": "Exportar e publicar sem abrir o arquivo final, apresentando a cafeteria fictêÂ­cia como real.",
     "depois": "Revisar o arquivo, identificar o estudo com IA e registrar onde foi entregue.",
     "campos": [
-      "Arquivo: vÃ­deo final reproduzido fora do editor",
-      "Pacote: vÃ­deo + imagens iniciais + aprendizado",
-      "Entrega: local, privada ou publicaÃ§Ã£o registrada"
+      "Arquivo: vêÂ­deo final reproduzido fora do editor",
+      "Pacote: vêÂ­deo + imagens iniciais + aprendizado",
+      "Entrega: local, privada ou publicaêÂ§êÂ£o registrada"
     ],
     "passos": [
-      "Exporte uma versÃ£o e abra fora do CapCut. Confira duraÃ§Ã£o, imagem, voz e legendas; corrija e exporte novamente se necessÃ¡rio.",
-      "Separe o vÃ­deo e as imagens iniciais. Escreva uma frase sobre a decisÃ£o que mais melhorou o resultado.",
-      "Entregue por arquivo ou link, ou publique apÃ³s conferir a prÃ©via. Identifique o uso de IA e registre a modalidade real da entrega."
+      "Exporte uma versêÂ£o e abra fora do CapCut. Confira duraêÂ§êÂ£o, imagem, voz e legendas; corrija e exporte novamente se necessêÂ¡rio.",
+      "Separe o vêÂ­deo e as imagens iniciais. Escreva uma frase sobre a decisêÂ£o que mais melhorou o resultado.",
+      "Entregue por arquivo ou link, ou publique apêÂ³s conferir a prêÂ©via. Identifique o uso de IA e registre a modalidade real da entrega."
     ],
-    "molde": "Arquivo final: <nome e local>\nDuraÃ§Ã£o e resoluÃ§Ã£o reais: <dados>\nRevisÃ£o: imagem, voz, legendas e convite <resultado>\nImagens iniciais: <3â€“5 arquivos>\nAprendizado: <uma frase>\nModalidade: local / link privado / publicado\nLocal ou URL: <preencher>\nDescriÃ§Ã£o: estudo fictÃ­cio com cenas geradas por IA",
-    "pronto": "o arquivo foi revisado fora do editor e a modalidade de entrega estÃ¡ registrada com evidÃªncia",
-    "confira": "As 24 horas organizam o desafio. O que comprova a entrega Ã© o arquivo revisado, com suas pendÃªncias resolvidas.",
-    "calma": "Se preferir nÃ£o publicar publicamente, entregue um arquivo ou link privado. Registre essa escolha; publicar continua sendo uma etapa opcional.",
-    "q": "O arquivo foi exportado, mas ninguÃ©m conferiu a reproduÃ§Ã£o. Qual Ã© o prÃ³ximo passo?",
+    "molde": "Arquivo final: <nome e local>\nDuraêÂ§êÂ£o e resoluêÂ§êÂ£o reais: <dados>\nRevisêÂ£o: imagem, voz, legendas e convite <resultado>\nImagens iniciais: <3ê¢â¬â5 arquivos>\nAprendizado: <uma frase>\nModalidade: local / link privado / publicado\nLocal ou URL: <preencher>\nDescriêÂ§êÂ£o: estudo fictêÂ­cio com cenas geradas por IA",
+    "pronto": "o arquivo foi revisado fora do editor e a modalidade de entrega estêÂ¡ registrada com evidêÂªncia",
+    "confira": "As 24 horas organizam o desafio. O que comprova a entrega êÂ© o arquivo revisado, com suas pendêÂªncias resolvidas.",
+    "calma": "Se preferir nêÂ£o publicar publicamente, entregue um arquivo ou link privado. Registre essa escolha; publicar continua sendo uma etapa opcional.",
+    "q": "O arquivo foi exportado, mas ninguêÂ©m conferiu a reproduêÂ§êÂ£o. Qual êÂ© o prêÂ³ximo passo?",
     "opcoes": [
-      "Apagar os originais para liberar espaÃ§o",
+      "Apagar os originais para liberar espaêÂ§o",
       "Publicar imediatamente",
       "Abrir e revisar o arquivo fora do editor"
     ],
     "correta": 2,
-    "observacao": "O celular representa a conferÃªncia em formato vertical. A imagem Ã© ilustrativa; o curso nÃ£o apresenta esse quadro como vÃ­deo produzido.",
+    "observacao": "O celular representa a conferêÂªncia em formato vertical. A imagem êÂ© ilustrativa; o curso nêÂ£o apresenta esse quadro como vêÂ­deo produzido.",
     "ex1": "Caio abre o MP4 no celular e percebe uma legenda cortada antes de entregar.",
     "ex2": "Helena guarda o estudo com as imagens iniciais e anota que simplificar o movimento melhorou a continuidade.",
     "tarefa": "Exporte, confira e publique com contexto",
     "resumo": [
-      "Arquivo: vÃ­deo final reproduzido fora do editor",
-      "Pacote: vÃ­deo + imagens iniciais + aprendizado",
-      "Entrega: local, privada ou publicaÃ§Ã£o registrada"
+      "Arquivo: vêÂ­deo final reproduzido fora do editor",
+      "Pacote: vêÂ­deo + imagens iniciais + aprendizado",
+      "Entrega: local, privada ou publicaêÂ§êÂ£o registrada"
     ],
     "cartoes": [
       [
-        "O arquivo foi exportado, mas ninguÃ©m conferiu a reproduÃ§Ã£o. Qual Ã© o prÃ³ximo passo?",
+        "O arquivo foi exportado, mas ninguêÂ©m conferiu a reproduêÂ§êÂ£o. Qual êÂ© o prêÂ³ximo passo?",
         "Abrir e revisar o arquivo fora do editor"
       ],
       [
         "O que conferir antes de seguir?",
-        "As 24 horas organizam o desafio. O que comprova a entrega Ã© o arquivo revisado, com suas pendÃªncias resolvidas."
+        "As 24 horas organizam o desafio. O que comprova a entrega êÂ© o arquivo revisado, com suas pendêÂªncias resolvidas."
       ],
       [
-        "Qual evidÃªncia encerra esta prÃ¡tica?",
-        "o arquivo foi revisado fora do editor e a modalidade de entrega estÃ¡ registrada com evidÃªncia"
+        "Qual evidêÂªncia encerra esta prêÂ¡tica?",
+        "o arquivo foi revisado fora do editor e a modalidade de entrega estêÂ¡ registrada com evidêÂªncia"
       ]
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaÃ§Ãµes extras e correÃ§Ãµes podem pedir outra sessÃ£o."
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas, gravaêÂ§êÂµes extras e correêÂ§êÂµes podem pedir outra sessêÂ£o."
   }
 ]
